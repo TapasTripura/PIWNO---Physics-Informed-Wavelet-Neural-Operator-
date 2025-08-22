@@ -10,7 +10,7 @@ This repository contains the python codes of the paper
   > Train in low resolution:
   ![Train in Low resolution](/Nagumo/Nagumo.png)
   > Test on high resolution:
-  ![Train at high resolution](/Github_page_images/Burgers_prediction.png)
+  ![Train at high resolution](/Nagumo/Nagumo_super.png)
 
 ## Essential Python Libraries
 Following packages are required to be installed to run the above codes:
@@ -34,6 +34,7 @@ If you use any part our codes, please cite us at,
   pages={115783},
   year={2023},
   publisher={Elsevier}
+}
 
 @article{navaneeth2024physics,
   title={Physics informed WNO},
