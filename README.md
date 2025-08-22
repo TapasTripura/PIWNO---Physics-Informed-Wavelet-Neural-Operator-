@@ -45,6 +45,4 @@ If you use any part our codes, please cite us at,
   year={2024},
   publisher={Elsevier}
 }
-
-}
 ```
